@@ -18,4 +18,4 @@
   - `check_image_validity`: 檢查圖像路徑是否有效。
 
 ## 成果範例
-<img src="res/res.jpg" alt="成果圖像" width="800" height="800">
+<img src="res/res.JPG" alt="成果圖像" width="800" height="800">
