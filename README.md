@@ -2,7 +2,7 @@
 信件模板自動寄信
 
 ## 靈感來源
-[靈感來源 (1:25:05)](https://www.youtube.com/watch?v=-bBYmMembAw&t=5105s)
+[觀看影片 (1:25:05)](https://www.youtube.com/watch?v=-bBYmMembAw&t=5105s)
 該影片來自「蔡阿嘎 543」頻道。
 ## 問題描述
 主要是因為該影片中提到的公關品統計寄發貨等問題發想能不能採用以下方法結合方便日後流程，例如：
