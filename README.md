@@ -1,6 +1,7 @@
 # MailTemplate
 信件模板自動寄信
-
+## Python Version
+3.10.9
 ## 靈感來源
 [觀看影片 (1:25:05)](https://www.youtube.com/watch?v=-bBYmMembAw&t=5105s)
 該影片來自「蔡阿嘎 543」頻道。
